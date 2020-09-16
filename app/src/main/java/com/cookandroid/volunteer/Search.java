@@ -80,7 +80,7 @@ public class Search extends AppCompatActivity {
                 startActivity(intent);
             }
         });
-
+//something changed
 
         seladdr1.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
             @Override
